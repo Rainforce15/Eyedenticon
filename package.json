@@ -1,0 +1,21 @@
+{
+    "name": "eyedenticon",
+    "version": "0.0.0",
+    "description": "An identicon module",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Rainforce15/Eyedenticon"
+    },
+    "keywords": [
+        "identicon",
+        "eye"
+    ],
+    "author": "Rainforce15 <rainforce15@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Rainforce15/Eyedenticon/issues"
+    },
+    "dependencies": {}
+}
